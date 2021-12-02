@@ -16,5 +16,5 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 Solutions and Completion Status
 -----
-Day 1 - [Sonar Sweep](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%201/Day%201%20Solution.ipynb) ⭐⭐
-Day 2 - [Dive!]() ⭐⭐
+* Day 1 - [Sonar Sweep](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%201/Day%201%20Solution.ipynb) ⭐⭐
+* Day 2 - [Dive!](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%202/Day%202%20Solution.ipynb) ⭐⭐
