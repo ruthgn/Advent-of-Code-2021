@@ -19,5 +19,5 @@ Solutions and Completion Status
 * Day 1 - [Sonar Sweep](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%201/Day%201%20Solution.ipynb) ⭐⭐
 * Day 2 - [Dive!](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%202/Day%202%20Solution.ipynb) ⭐⭐
 * Day 3 - [Binary Diagnostic](https://github.com/ruthgn/Advent-of-Code-2021/blob/main) ⭐⭐
-* Day 4 - [Giant Squid](https://github.com/ruthgn/Advent-of-Code-2021/blob/main) ⭐⭐
-* Day 5 - [Hydrothermal Venture](https://github.com/ruthgn/Advent-of-Code-2021/blob/main) ⭐⭐
+* Day 4 - Giant Squid ⭐⭐
+* Day 5 - Hydrothermal Venture ⭐⭐
