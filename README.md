@@ -21,3 +21,4 @@ Solutions and Completion Status
 * Day 3 - [Binary Diagnostic](https://github.com/ruthgn/Advent-of-Code-2021/blob/main) ⭐⭐
 * Day 4 - Giant Squid ⭐⭐
 * Day 5 - Hydrothermal Venture ⭐⭐
+* Day 6 - Lanternfish ⭐⭐
