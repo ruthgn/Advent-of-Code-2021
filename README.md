@@ -1,6 +1,6 @@
 # 🎅 Advent of Code 2021 🎄 — Python Solutions
 
-This repository contains my solutions to [Advent of Code 2021](https://adventofcode.com/) programming puzzles. These solutions utilize open-source data science tools such as Python, NumPy and Pandas, and are written on Jupyter Notebooks.
+This repository contains my solutions to [Advent of Code 2021](https://adventofcode.com/) programming puzzles. These solutions utilize popular open-source data science tools such as Python, NumPy and Pandas, and are written on Jupyter Notebooks.
 
 
 The Back Story
