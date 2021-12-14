@@ -23,3 +23,4 @@ Solutions and Completion Status
 * Day 5 - Hydrothermal Venture ⭐⭐
 * Day 6 - [Lanternfish](https://github.com/ruthgn/Advent-of-Code-2021/tree/main/Day%206) ⭐
 * Day 7 - [The Treachery of Whales](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%207/Day%207%20Solution.ipynb) ⭐⭐
+* Day 8 - [Seven Segment Search](https://github.com/ruthgn/Advent-of-Code-2021/tree/main/Day%208) ⭐
