@@ -16,11 +16,28 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 Solutions and Completion Status
 -----
-* Day 1 - [Sonar Sweep](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%201/Day%201%20Solution.ipynb) ⭐⭐
-* Day 2 - [Dive!](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%202/Day%202%20Solution.ipynb) ⭐⭐
-* Day 3 - [Binary Diagnostic](https://github.com/ruthgn/Advent-of-Code-2021/tree/main/Day%203) ⭐⭐
-* Day 4 - Giant Squid ⭐⭐
-* Day 5 - Hydrothermal Venture ⭐⭐
-* Day 6 - [Lanternfish](https://github.com/ruthgn/Advent-of-Code-2021/tree/main/Day%206) ⭐
-* Day 7 - [The Treachery of Whales](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%207/Day%207%20Solution.ipynb) ⭐⭐
-* Day 8 - [Seven Segment Search](https://github.com/ruthgn/Advent-of-Code-2021/tree/main/Day%208) ⭐
+* Day 01 - [Sonar Sweep](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%201/Day%201%20Solution.ipynb) ⭐⭐
+* Day 02 - [Dive!](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%202/Day%202%20Solution.ipynb) ⭐⭐
+* Day 03 - [Binary Diagnostic](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%2003/Day%203%20Solution%20-%20Part%201.ipynb) ⭐⭐
+* Day 04 - Giant Squid ⭐⭐
+* Day 05 - Hydrothermal Venture ⭐⭐
+* Day 06 - [Lanternfish](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%2006/Day%206%20Solution%20-%20Part%201.ipynb) ⭐
+* Day 07 - [The Treachery of Whales](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%207/Day%207%20Solution.ipynb) ⭐⭐
+* Day 08 - [Seven Segment Search](https://github.com/ruthgn/Advent-of-Code-2021/blob/main/Day%2008/Day%208%20Solution%20-%20Part%201.ipynb) ⭐
+* Day 09 - Smoke Basin
+* Day 10 - Syntax Scoring
+* Day 11 - Dumbo Octopus
+* Day 12 - Passage Pathing
+* Day 13 - Transparent Origami
+* Day 14 - Extended Polymerization 
+* Day 15 
+* Day 16 
+* Day 17 
+* Day 18 
+* Day 19 
+* Day 20 
+* Day 21
+* Day 22 
+* Day 23 
+* Day 24 
+* Day 25 
